@@ -1,0 +1,5 @@
+{
+  "name": "Patna Citizen",
+  "description": "Connecting the citizens of Patna directly with municipal authorities for a cleaner, safer, and better city.",
+  "requestFramePermissions": ["geolocation"]
+}
